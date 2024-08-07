@@ -16,12 +16,14 @@
 
 
 ###
-<img align="right" height="150" src="https://media1.tenor.com/m/JLDCm5SOMt0AAAAC/miserable-omori.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/RbcmQYV_iTgAAAAi/gbb-bean-had-been-summoned-greenbeambean.gif"  />
 
 ##
 
 <div align="left">
   <h3> 📚 Estudando: </h3>
+   <img width="12" />
+  <img src="https://cdn.discordapp.com/attachments/1186041068156891218/1270762950805950515/icons8-russia-64.png?ex=66b4e1b9&is=66b39039&hm=f04670b309e49aec3accbf9c70a6e589b624bb93b26cc7703d8b1f843e2823e6&" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
