@@ -16,7 +16,7 @@
 
 
 ###
-<img align="right" height="150" src="https://media.tenor.com/RbcmQYV_iTgAAAAi/gbb-bean-had-been-summoned-greenbeambean.gif"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1186041068156891218/1272932618974789742/gifsol.gif?ex=66bcc662&is=66bb74e2&hm=f64fdba7956329b1a01073cd6d5fd67d834844d3b19937efab7999bbd0e5bb9a&"  />
 
 ##
 
